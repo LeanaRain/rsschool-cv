@@ -15,3 +15,11 @@ body {
     max-width: 1440px;
     margin: 0 auto;
 }
+img {
+    border: 2px solid green;
+    border-radius: 19px;
+    width: 200px;
+    position: absolute;
+        left: 1%;
+        top: 3%;
+    }
