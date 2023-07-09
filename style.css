@@ -38,3 +38,8 @@ body {
     align-items: center;
     border: 2px solid rgb(43, 0, 128);
 }
+.profile-title {
+    position: relative;
+    bottom: -50px;
+    left: -120px;
+    }
