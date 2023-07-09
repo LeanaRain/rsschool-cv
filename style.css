@@ -1,5 +1,55 @@
+@font-face {
+    font-family: Roboto;
+    src: url("assets/fonts/Roboto-Black.ttf");
+}
 *{
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.profile-img {
+    border: 2px solid green;
+    border-radius: 19px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    }
+.profile {
+    display: flex; 
+    align-items: center; 
+}
+.profile-name {
+    margin-left: 20px;
+}
+.pre {
+    border: 2px solid green;
+}
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgb(43, 0, 128);
+}
+.profile-title {
+    position: relative;
+    bottom: -50px;
+    left: -120px;
+    }
+.footer-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgb(43, 0, 128);
+}
+.rsschool-img {
+    width: 80px;
+    height: 50px;
+    }
