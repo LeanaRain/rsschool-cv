@@ -29,3 +29,6 @@ body {
 .profile-name {
     margin-left: 20px;
 }
+.pre {
+    border: 2px solid green;
+}
