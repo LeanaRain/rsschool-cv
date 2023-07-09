@@ -43,3 +43,13 @@ body {
     bottom: -50px;
     left: -120px;
     }
+.footer-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgb(43, 0, 128);
+}
+.rsschool-img {
+    width: 80px;
+    height: 50px;
+    }
