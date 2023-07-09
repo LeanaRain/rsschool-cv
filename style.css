@@ -32,3 +32,9 @@ body {
 .pre {
     border: 2px solid green;
 }
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgb(43, 0, 128);
+}
