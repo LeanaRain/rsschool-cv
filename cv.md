@@ -20,11 +20,11 @@ console.log('Hello, World!');
 I graduated from university with a degree in Economics. 
 **I have an honors degree**.
 ## Experience
-I do not have experience in JS development.
+I do not have experience in JS development. Still studying.
 I have a little experience in Gamedevelopment. I worked in a small game as a content manager, tester and moderator. I am invented and created quests for players, different attack scenes. And tested its. Also i tested updates of game  manually. 
 I did quests on a turnkey basis: I came up with a plot, divided it into stages, wrote texts and entered it into the database, linked tables in the database, game elements, set prizes and drop percentage, then tested what happened .. and then answered to the questions of the players why such a bad drop =) It was a fun time...
 But unfortunately it was not my most work`s experience. It was my side job for about 5 years in my free time.
-My most work is analist, finance and taxes. This is what I have been doing for the last 18 years.
+My most work is analist, finance and taxes. This is what I have been doing for the last 20 years.
 Also i have a little experience in recruitment, including IT-recruitment.
 ## Languages
 *    **Russian**
@@ -34,7 +34,7 @@ I am learning english now. I really love english and i want more practicing engl
 But i know than i have really a lot of mistakes.
 To be honest, I would rate my English no higher А1-А2. I can write and read simple sentences without a dictionary. But I still do not know many words and do not understand oral speech well.
 *    **German**
-I learned german in school. It was twenty years ago. And i do not remember much it.
+I learned german in school. It was more than twenty years ago. And i do not remember much it.
 ## My hobby
 In my free time i love to play videogames and to read. 
 But now i do not have free time. I learn here and i learn English.
