@@ -5,6 +5,7 @@
 My name is Leana. I am forty two years old. 
 Ever since school i dreamed of going to study at Information Technology. At school I studied very well in almost all subjects. But until the 9th grade at my school, physics was self-study. So I scored low in physics and could not go  to the university in information technology. So I had to choose another specialty. 4 years I tried to get into IT. On 4 year I passed the competition! But at that time I was already studying economics for free. And in order to enroll in IT, I had to return the money for all 4 years of studying economics or quit studying and start from scratch. However, I already wrote a diploma, but there was no money. The dream had to be abandoned. Now I want to try again to get closer to my dream...
 Besides my real job with finance has low wages and no prospects.
+In real life, I don’t have people nearby who share my interest in IT and there is no support, rather the opposite, so it’s difficult to do it alone. I really want to find friends with similar interests, study together and maybe start our own joint project.
 ## Scills
 I have strong analytical skills, that helped me in any activity, whatever I did.
 I have a really good imagination.
@@ -13,9 +14,7 @@ I have a great sence of humor.
 I have some other useful skills, but I think they are not important here.
 ## Code examples
 ```
-Sorry.
-I am still learning.
-My first code example will be here later.
+console.log('Hello, World!');
 ```
 ## Education
 I graduated from university with a degree in Economics. 
