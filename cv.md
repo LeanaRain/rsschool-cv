@@ -16,6 +16,9 @@ I have some other useful skills, but I think they are not important here.
 ```
 console.log('Hello, World!');
 ```
+## My projects
+*    https://leanarain.github.io/rsschool-cv/
+*    https://leanarain.github.io/cookies/
 ## Education
 I graduated from university with a degree in Economics. 
 **I have an honors degree**.
